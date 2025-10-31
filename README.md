@@ -96,8 +96,8 @@ It covers a complete range of MongoDB operations — from **basic filtering and 
 
 ## 👤 Author
 
-**Name:** Junaid Khan
-**Registration No.:** 1240258209  
+**Name:** Himanshu Gautam 
+**Registration No.:** 1240258198  
 **Subject:** NO SQL and Dbaas 101
 **Course:** BCA (Data Science & AI)  
 **Institution:** *Babu Banarasi Das University*  
